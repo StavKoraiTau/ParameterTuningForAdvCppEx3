@@ -1,0 +1,11 @@
+Demonstrate the algorithm can detect uncleanable tiles.
+MaxSteps=   550
+MaxBattery = 30
+Rows = 6
+Cols=16
+10000023W1W11111
+01020304W0W1WWW2
+91W03D0412W1W1W1
+11W2100009110 WW
+10222210W330
+WWW01111W111111

@@ -1,0 +1,22 @@
+Small house
+MaxSteps =1000
+MaxBattery = 100
+Rows=18
+Cols = 30
+             WWWWWWWWWWWWWW   
+    WWWWWWWWWW99 W        9WW 
+    W         999WW       9 W 
+   W       WWWWWWWWWW     9 W 
+  WW      WW                W 
+  W     WWW   111        WWWW 
+ W     WW  1111       WWWW  W 
+WW   WWW  11        WWW     WW
+W    W             WW      1 W
+W             D  WWW   1111  W
+W              WWWW    1111  W
+WW            WWW   1111111  W
+ W  9        WWW   11  111  WW
+ W  9        WW    1   1 11 W 
+ W  9              111111   W 
+ WW       WWWW              W 
+  WWWWWWWW    WWWWWWWWWWWWWWW 

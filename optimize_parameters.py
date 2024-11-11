@@ -4,6 +4,7 @@ import random
 import ast
 import pandas as pd
 def main():
+    #test
     run_cmd("rm algo_files/algo_*.so")
     init(20)
     run_algos()
